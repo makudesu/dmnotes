@@ -3,13 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DigitalMax Notes - MK's documentation!
-=================================================
+DigitalMax Notes - MK
+=====================
 
-Contents:
+Routines:
 
 .. toctree::
    :maxdepth: 2
+
+   Daily Routine
+   Weekly Routine
+   Monthly Routine
+
+Others:
+
+
+.. toctree::
+   :maxdepth: 3
+
+   Extra
 
 
 

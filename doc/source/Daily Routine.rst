@@ -26,7 +26,7 @@ While Working
 * charge the camera's battery when the remaining power is below 1/3 or 33%
 * observe proper bond paper type for every job
     * :ref:`pri`
-    * photocopying
+    * :ref:`pho`
 * when in doubt, always ASK
 * always record the amount received minus the amount charge at the back of every receipt ex: receipt format
 * remember to tell the customers to go to the other part of the shop for souvenirs/other affairs

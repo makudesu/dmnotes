@@ -45,6 +45,8 @@ Printing
 * encode + print -- P22 long -- P20 short
 * colored -- P5 or P7 - P10 long/short
 
+.. _pho:
+
 Photocopying
 ^^^^^^^^^^^^
 

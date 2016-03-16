@@ -3,11 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. |digitalmax| image:: _static/digitalmax_t.png
 
 |digitalmax| Notes - MK
 ==================================
-
-.. |digitalmax| image:: _static/digitalmax_t.png
 
 Routines:
 

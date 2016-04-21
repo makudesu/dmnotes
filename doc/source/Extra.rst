@@ -81,7 +81,7 @@ BIR
 
 * regular -- P20 w/in 30 mins
 * printing of 1 set of 3pcs/form -- P30
-* the email account to be used depends on the customer
+* use the customer's email account if available
 * depEd -- P20 w/in 30 mins #160ie
 * printing of 2 sets of 3pcs/form -- P40 and +P3 per succeeding page
 
@@ -93,7 +93,8 @@ Edit
 Photo
 ^^^^^
 
-* for prices please check the price list located at the shop's main receiving area * editing (change according to the subject's complextion)
+* for prices please check the price list located at the shop's main receiving area 
+* editing (change according to the subject's complexion)
 
 Email
 ^^^^^
